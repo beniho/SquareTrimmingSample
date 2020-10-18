@@ -1,0 +1,2 @@
+# SquareTrimmingSample
+ionicで画像を正方形にトリミングするサンプルです。
