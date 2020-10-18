@@ -1,0 +1,7 @@
+{
+  "name": "SquareTrimmingSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
