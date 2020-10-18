@@ -3,7 +3,7 @@ ionicで画像を正方形にトリミングするサンプルです。
 ## Getting Started  
 次のリポジトリから clone してください。  
 ```
-git clone https://github.com/kozake/docs-demo-react-v5.git
+git clone https://github.com/beniho/SquareTrimmingSample.git
 ```
 clone後、次のコマンドを実行して依存関係をインストールし、アプリを実行します。  
 ```
