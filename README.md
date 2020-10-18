@@ -5,9 +5,12 @@ ionicで画像を正方形にトリミングするサンプルです。
 ```
 git clone https://github.com/beniho/SquareTrimmingSample.git
 ```
-clone後、次のコマンドを実行して依存関係をインストールし、アプリを実行します。  
+clone後、次のコマンドを実行して依存関係のインストールとプラットホームの追加をし、アプリを実行します。  
 ```
+cd SquareTrimmingSample
 npm i
-npm start
-npm run build
+ionic build
+npx cap add <platform>
+npx cap copy <platform>
+npx cap open <platform>
 ```
